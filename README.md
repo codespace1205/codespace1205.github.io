@@ -1,1 +1,17 @@
-# codespace1205.github.io
+# _**CODE SPACE**_
+## -SECTION 1-:
+ _GET SET GO !_
+ 
+ THIS REPOSITORY FEATURES NEW WEB BASED APPLICATIONS LIKE CALCULATOR , 
+ 
+ * IMAGE 1: CALCULATOR
+ 
+ ## -SECTION 2: -
+ 
+ THIS PROJECT WILL BE MADE USING FLUENT UI AND OTHER TECHNOLOGIES
+* PLEASE REFER :
+ * [FLUENT UI](https://developer.microsoft.com/en-us/fluentui#/)
+ * [LINK 2](https://www.microsoft.com/design/fluent/#/)
+
+#### -SECTION 3- 
+@CODESPACE1205
